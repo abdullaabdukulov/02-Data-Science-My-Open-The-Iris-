@@ -5,6 +5,7 @@
 <img src="https://storage.googleapis.com/qwasar-public/track-ds/iris_plot_histogram.png" width="350">
 
 <img src="https://storage.googleapis.com/qwasar-public/track-ds/iris_plot_scatter.png" width="350">
+
 ## Task
 1. Loading the dataset.
 2. Summarizing the dataset.
@@ -42,4 +43,4 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-For working with this project you should run the my_open_the_iris.ipynb file. So open it with Jupyter Notebook
+For working with this project you should run ```the my_open_the_iris.ipynb``` file. So open it with Jupyter Notebook
